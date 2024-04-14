@@ -1,4 +1,4 @@
-# CMPT361PROJECT
+# Network Security Project 
 ## TEAM MEMBERS
 
 Charuni Liyanage, Moshood Aromolaran, Von Castro 
