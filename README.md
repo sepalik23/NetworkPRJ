@@ -3,6 +3,10 @@
 
 Charuni Liyanage, Moshood Aromolaran, Von Castro 
 
+# Objective: Facilitate communication between a client and a server for exchanging emails. 
+# The improved security measures implemented in the program files: server_enhanced and client_enhanced
+# serve as a safeguard against brute force attacks.
+
 ## How to run program
 
 1. Generate public and private keys
